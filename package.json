@@ -106,7 +106,7 @@
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0",
     "webpack-dev-middleware": "^3.6.1",
-    "webpack-dev-server": "^3.2.1",
+    "webpack-dev-server": "^5.2.2",
     "webpack-merge": "^4.2.1"
   },
   "peerDependencies": {
